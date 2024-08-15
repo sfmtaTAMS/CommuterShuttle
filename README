@@ -1,2 +1,8 @@
 ## README Commuter Shuttle 
 #This repository contains the intern work product of Eunice Zhang for the summer of 2024. 
+
+site-evaluation-preprocessing.ipynb: A script to process data from commuter shuttle site evaluations which renames columns, removes duplicate entries, re-orders columns, and saves data in a new folder
+
+site-evaluation-data-analysis.ipynb: A Python notebook with preliminary data analysis on present signage, updated signage in summary table and pie chart format. Initial analyses includes a cross-tab table of signage present across shuttle stop types. 
+
+complaint-data-analysis.ipynb: A Python notebook to analyzee investigator shuttle complaint data from 2018-2020 with preliminary data analysis on: observe monthly complaints over time, year split by quarter, case owner distribution, complaints by organization, average time from opening to last modification, case closure rate, and a word cloud of the most common words in all complaint descriptions excluding stop words.
